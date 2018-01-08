@@ -1,0 +1,14 @@
+
+.bankAccount > div {
+  margin-bottom: 15px;
+}
+
+.ibanField {
+  position: relative;
+}
+
+.deleteIcon {
+  position: absolute;
+  right: -25px;
+  top: 7px;
+}
